@@ -5,8 +5,9 @@ This repository contains the materials for **Week 3** of Inference and Causality
 - Notebooks: see [`notebooks/`](./notebooks/) folder 
 ---
 
-## 📑 Session Outline
-### Observation vs Intervention • Conditional Independence • Proxy Variables  
+## 📑 Sessions Outline
+### Observation vs Intervention • Conditional Independence • Proxy Variables
+### Counterfactuals • Randomized Controlled Trials (RCTs)
 
 
 ## Learning Objectives
@@ -18,6 +19,8 @@ By the end of this week, you will be able to:
 - Identify **confounders** and understand how interventions break spurious links.  
 - Use **proxy variables** to handle **unobserved confounding**.  
 - Understand the intuition behind **Pearl’s do-calculus**.
+- Explain the **counterfactual** concept.
+- Recognize the logic behind **Randomized Controlled Trial (RCT)** and evaluate studies based on the study desing.
 
 ---
 
@@ -28,7 +31,7 @@ By the end of this week, you will be able to:
 | **Session 5** | Observation vs Intervention | 
 |  | Conditional Independence (Chain/Fork/Collider) | 
 |  | Do-Calculus: History & Motivation | 
-| **Session 6** |  | |
+| **Session 6** | Counterfactuals and Randomized Controlled Trials (RCTs)  | |
 
 ---
 
